@@ -1,5 +1,5 @@
-<h1 align="center">Hola 👋, Me llamo Daniel Lucio</h1>
-<h3 align="center">Apasionado desarrollador de software enfocado en el desarrollo web</h3>
+<h1 align="center">Hi 👋, I'm Daniel Lucio</h1>
+<h3 align="center">Passionate software developer focused on web development</h3>
 
 - 🔭 I’m currently working on [DODOC](https://github.com/Danielluma242004/DODOC-WEB)
 
