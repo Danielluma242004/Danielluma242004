@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **demanding projects**
 
-- 💬 Ask me about **JavaScript, NodeJS, ExpressJS, Django**
+- 💬 Ask me about **JavaScript, NodeJS, AxiosJS, Django**
 
 - 📫 How to reach me **daniel.luciomrl@uanl.edu.mx**
 
