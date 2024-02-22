@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Daniel Lucio</h1>
 <h3 align="center">Passionate software developer focused on web development</h3>
 
-- 🔭 I’m currently working on [Movies Scraping](https://github.com/Danielluma242004/Movies_Scraping)
+- 🔭 I’m currently working on [TicketCrowd](https://github.com/Danielluma242004/TicketCrowd)
 
 - 🌱 I’m currently learning **ReactJS and TypeScript**
 
